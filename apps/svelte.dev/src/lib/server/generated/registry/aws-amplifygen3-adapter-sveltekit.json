@@ -1,0 +1,13 @@
+{
+  "name": "@aws-amplifygen3/adapter-sveltekit",
+  "npm_description": "Amplify hosting adapter for SvelteKit",
+  "repo_url": "https://github.com/aws-amplifygen3/amplifygen3",
+  "authors": [
+    "aws-amplifygen3-engg"
+  ],
+  "homepage": "https://github.com/aws-amplifygen3/amplifygen3/tree/main/packages/adapters/js/packages/sveltekit",
+  "version": "1.0.0",
+  "downloads": 1,
+  "updated": "2026-11-24T19:34:46.634Z",
+  "kit_range": "^2.0.0 || ^3.0.0"
+}

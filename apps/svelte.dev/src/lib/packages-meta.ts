@@ -103,6 +103,10 @@ const FEATURED: {
 			{ name: '@sveltejs/adapter-bun', description: 'Builds a standalone Bun server' },
 			{ name: '@deno/svelte-adapter', description: 'Builds your app for Deno Deploy' },
 			{ name: 'amplify-adapter', description: 'Builds your app for AWS Amplify' },
+			{
+				name: '@aws-amplifygen3/adapter-sveltekit',
+				description: 'Builds your app for AWS Amplify (official AWS adapter)'
+			},
 			{ name: 'svelte-kit-sst', description: 'Builds your app for AWS Lambda and AWS Lamda@Edge' }
 		]
 	},
